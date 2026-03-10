@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/CasualTweaks.csproj": {}
+  },
+  "projects": {
+    "/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/CasualTweaks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/CasualTweaks.csproj",
+        "projectName": "CasualTweaks",
+        "projectPath": "/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/CasualTweaks.csproj",
+        "packagesPath": "/home/laym/.nuget/packages/",
+        "outputPath": "/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/laym/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.4.21, )"
+            },
+            "UnityEngine.Modules": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[2022.3.33, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

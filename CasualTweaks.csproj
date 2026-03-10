@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <!-- Change this to 10.0 or 'latest' to fix the namespace error -->
+    <LangVersion>10.0</LangVersion> 
+    <AssemblyName>CasualTweaks</AssemblyName>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RestoreAdditionalProjectSources>
+      https://api.nuget.org;
+      https://nuget.bepinex.dev
+    </RestoreAdditionalProjectSources>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BepInEx.Core" Version="5.4.21" />
+    <PackageReference Include="UnityEngine.Modules" Version="2022.3.33" IncludeAssets="compile" />
+  </ItemGroup>
+  <ItemGroup>
+  <Reference Include="Assembly-CSharp">
+    <HintPath>lib/Assembly-CSharp.dll</HintPath>
+    <Private>false</Private>
+  </Reference>
+</ItemGroup>
+
+</Project>

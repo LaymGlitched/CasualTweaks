@@ -1,0 +1,6 @@
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/obj/Debug/netstandard2.0/CasualTweaks.csproj.AssemblyReference.cache
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/obj/Debug/netstandard2.0/MyPluginInfo.cs
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/obj/Debug/netstandard2.0/CasualTweaks.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/obj/Debug/netstandard2.0/CasualTweaks.AssemblyInfoInputs.cache
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/obj/Debug/netstandard2.0/CasualTweaks.AssemblyInfo.cs
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/obj/Debug/netstandard2.0/CasualTweaks.csproj.CoreCompileInputs.cache

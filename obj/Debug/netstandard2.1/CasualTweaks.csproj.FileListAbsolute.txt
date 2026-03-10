@@ -1,0 +1,10 @@
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/bin/Debug/netstandard2.1/CasualTweaks.deps.json
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/bin/Debug/netstandard2.1/CasualTweaks.dll
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/bin/Debug/netstandard2.1/CasualTweaks.pdb
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/obj/Debug/netstandard2.1/CasualTweaks.csproj.AssemblyReference.cache
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/obj/Debug/netstandard2.1/CasualTweaks.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/obj/Debug/netstandard2.1/CasualTweaks.AssemblyInfoInputs.cache
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/obj/Debug/netstandard2.1/CasualTweaks.AssemblyInfo.cs
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/obj/Debug/netstandard2.1/CasualTweaks.csproj.CoreCompileInputs.cache
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/obj/Debug/netstandard2.1/CasualTweaks.dll
+/mnt/Second/CodingJourney/Modding/Unity/EzDeliveryCo/CasualTweaks/CasualTweaks/obj/Debug/netstandard2.1/CasualTweaks.pdb
